@@ -5,7 +5,7 @@ It was conceived and the first version created during [Summer of Protocol's 2025
 
 ## Running the game
 
-This first version of the game is best run locally using an interpreter such as Gargoyle (https://ccxvii.net/gargoyle/)
+This first version of the game is best run locally using an interpreter such as Gargoyle (https://ccxvii.net/gargoyle/). Download the .blorb file to play.
 
 ## How to play
 
